@@ -17,9 +17,6 @@ You can try the live version of the app here: [Flight Price Prediction App](http
 - [Technologies Used](#technologies-used)
 - [Data](#data)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model](#model)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -29,12 +26,11 @@ This app takes in several flight-related inputs from the user and predicts the f
 ## Technologies Used
 
 - Python
-- Flask (for building the web app)
+- -XGBoost
 - Streamlit (for deploying the web app)
 - Scikit-learn (for machine learning model development)
 - Pandas and NumPy (for data manipulation)
 - Matplotlib and Seaborn (for data visualization)
-- HTML/CSS (for the frontend)
 
 ## Data
 
