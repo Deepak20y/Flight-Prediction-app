@@ -2,8 +2,6 @@
 
 The **Flight Price Prediction App** uses historical flight data to predict flight prices based on various factors such as departure and arrival times, duration, airline, and more. The goal is to help users find the best time to book flights and save money.
 
-### Try the App Live
-You can try the live version of the app here: [Flight Price Prediction App](https://flightpricepredictionmax.streamlit.app/)
 
 ## Features
 
